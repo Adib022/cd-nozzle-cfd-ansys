@@ -209,26 +209,3 @@ The simulation provided practical experience in **CFD model preparation, mesh ge
 
 ---
 
-## Repository Structure
-
-```text
-cd-nozzle-cfd-ansys/
-│
-├── README.md
-│
-├── geometry/
-│   └── nozzle_geometry.png
-│
-├── mesh/
-│   └── mesh.png
-│
-├── setup/
-│   └── boundary_conditions.png
-│
-└── results/
-    ├── mach_contour.png
-    ├── pressure_contour.png
-    ├── velocity_contour.png
-    ├── residuals.png
-    └── flow_distribution.png
-```
